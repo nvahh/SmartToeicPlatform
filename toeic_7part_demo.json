@@ -1,0 +1,454 @@
+{
+  "title": "ETS TOEIC 2026 - Full 7-Part Demo (25 Questions)",
+  "year": 2026,
+  "source": "Smart TOEIC Demo",
+  "durationMinutes": 40,
+  "publishImmediately": true,
+  "questionGroups": [
+    {
+      "partNumber": 1,
+      "orderIndex": 1,
+      "audioUrl": "/uploads/audio/full-p1-q1.mp3",
+      "imageUrl": "/uploads/images/full-p1-q1.png",
+      "transcriptHtml": "<p>(A) Some people are reviewing documents at a table.<br/>(B) A presenter is writing on a whiteboard.<br/>(C) Employees are stacking chairs against the wall.<br/>(D) A woman is closing the curtains.</p>",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "content": "Look at the picture and choose the statement that best describes it.",
+          "optionA": "A",
+          "optionB": "B",
+          "optionC": "C",
+          "optionD": "D",
+          "correctOption": "A",
+          "explanation": "Hai nhân viên đang ngồi xem tài liệu giấy cùng nhau tại bàn họp.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 1 - Mô tả tranh người & vật"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 1,
+      "orderIndex": 2,
+      "audioUrl": "/uploads/audio/full-p1-q2.mp3",
+      "imageUrl": "/uploads/images/full-p1-q2.png",
+      "transcriptHtml": "<p>(A) A worker is driving a forklift outside.<br/>(B) A man is organizing boxes on storage shelves.<br/>(C) Cardboard cartons are being loaded onto a truck.<br/>(D) A supervisor is sweeping the warehouse floor.</p>",
+      "questions": [
+        {
+          "questionNumber": 2,
+          "content": "Look at the picture and choose the statement that best describes it.",
+          "optionA": "A",
+          "optionB": "B",
+          "optionC": "C",
+          "optionD": "D",
+          "correctOption": "B",
+          "explanation": "Nhân viên kho đang sắp xếp các thùng carton trên kệ lưu trữ kim loại.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 1 - Mô tả tranh người & vật"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 1,
+      "orderIndex": 3,
+      "audioUrl": "/uploads/audio/full-p1-q3.mp3",
+      "imageUrl": "/uploads/images/full-p1-q3.png",
+      "transcriptHtml": "<p>(A) Customers are ordering coffee at a counter.<br/>(B) Umbrellas have been folded and put away.<br/>(C) Outdoor tables and chairs are arranged neatly under umbrellas.<br/>(D) Waiters are clearing dishes from the sidewalk.</p>",
+      "questions": [
+        {
+          "questionNumber": 3,
+          "content": "Look at the picture and choose the statement that best describes it.",
+          "optionA": "A",
+          "optionB": "B",
+          "optionC": "C",
+          "optionD": "D",
+          "correctOption": "C",
+          "explanation": "Tranh tả vật không có người: bàn ghế ngoài trời được xếp gọn gàng dưới các tán dù mở.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 1 - Mô tả tranh người & vật"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "orderIndex": 1,
+      "audioUrl": "/uploads/audio/full-p2-q7.mp3",
+      "transcriptHtml": "<p><strong>Q:</strong> Who is leading the software orientation this afternoon?<br/>(A) Probably Minh from the IT department.<br/>(B) In training room three.<br/>(C) No, it started at two o'clock.</p>",
+      "questions": [
+        {
+          "questionNumber": 7,
+          "content": "Listen to the question and choose the best response.",
+          "optionA": "A",
+          "optionB": "B",
+          "optionC": "C",
+          "optionD": null,
+          "correctOption": "A",
+          "explanation": "Câu hỏi 'Who' hỏi về người -> đáp án (A) nhắc tới 'Minh from the IT department'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 2 - Câu hỏi Wh- & Yes/No"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "orderIndex": 2,
+      "audioUrl": "/uploads/audio/full-p2-q8.mp3",
+      "transcriptHtml": "<p><strong>Q:</strong> Have you booked the flight to Da Nang yet?<br/>(A) The hotel was very comfortable.<br/>(B) I'm waiting for my manager's approval.<br/>(C) Yes, it's a direct train.</p>",
+      "questions": [
+        {
+          "questionNumber": 8,
+          "content": "Listen to the question and choose the best response.",
+          "optionA": "A",
+          "optionB": "B",
+          "optionC": "C",
+          "optionD": null,
+          "correctOption": "B",
+          "explanation": "Câu trả lời gián tiếp rất đặc trưng của Part 2: chưa đặt vé vì đang chờ sếp duyệt.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 2 - Câu hỏi Wh- & Yes/No"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "orderIndex": 3,
+      "audioUrl": "/uploads/audio/full-p2-q9.mp3",
+      "transcriptHtml": "<p><strong>Q:</strong> Why don't we move the client briefing to Thursday morning?<br/>(A) Because the slides are blue.<br/>(B) That works much better for my schedule.<br/>(C) On the fourth floor.</p>",
+      "questions": [
+        {
+          "questionNumber": 9,
+          "content": "Listen to the question and choose the best response.",
+          "optionA": "A",
+          "optionB": "B",
+          "optionC": "C",
+          "optionD": null,
+          "correctOption": "B",
+          "explanation": "'Why don't we...' là câu đề nghị (không phải hỏi lý do 'Why') -> chọn (B) đồng ý.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 2 - Câu hỏi Wh- & Yes/No"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "orderIndex": 1,
+      "audioUrl": "/uploads/audio/full-p3-g1.mp3",
+      "passageHtml": "<div style='font-family:sans-serif'><h4 style='margin:0 0 8px 0;font-weight:700'>Harbor Tech — Morning Delivery Schedule</h4><table style='width:100%;border-collapse:collapse;font-size:13px'><thead><tr style='background:#e2e8f0'><th style='border:1px solid #cbd5e1;padding:6px;text-align:left'>Time Slot</th><th style='border:1px solid #cbd5e1;padding:6px;text-align:left'>Destination</th></tr></thead><tbody><tr><td style='border:1px solid #cbd5e1;padding:6px'>09:30 A.M.</td><td style='border:1px solid #cbd5e1;padding:6px'>Bayview Hotel</td></tr><tr><td style='border:1px solid #cbd5e1;padding:6px'>10:30 A.M.</td><td style='border:1px solid #cbd5e1;padding:6px'>Midtown Clinic</td></tr><tr><td style='border:1px solid #cbd5e1;padding:6px'>11:30 A.M.</td><td style='border:1px solid #cbd5e1;padding:6px'><strong>Creative Studio (Rescheduled)</strong></td></tr><tr><td style='border:1px solid #cbd5e1;padding:6px'>01:00 P.M.</td><td style='border:1px solid #cbd5e1;padding:6px'>City Library</td></tr></tbody></table></div>",
+      "transcriptHtml": "<p><strong>Woman:</strong> Hi David, did the new office monitors arrive from Harbor Tech yet?<br/><strong>Man:</strong> Not yet, Sarah. The shipping company called ten minutes ago to say their truck got stuck in traffic near the port.<br/><strong>Woman:</strong> Oh no, our design interns start at two P.M., and they need those screens. When will the driver get here?<br/><strong>Man:</strong> They moved our stop to the slot right after Midtown Clinic, so around eleven thirty. I'll help you set them up before lunch.</p>",
+      "questions": [
+        {
+          "questionNumber": 32,
+          "content": "What are the speakers waiting to receive?",
+          "optionA": "Office chairs",
+          "optionB": "Computer monitors",
+          "optionC": "Printer cartridges",
+          "optionD": "Design brochures",
+          "correctOption": "B",
+          "explanation": "Người phụ nữ hỏi: 'did the new office monitors arrive from Harbor Tech yet?'",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 3 & 4 - Nghe ý chính & Suy luận"
+          ]
+        },
+        {
+          "questionNumber": 33,
+          "content": "Why is the delivery delayed?",
+          "optionA": "The order was packed incorrectly.",
+          "optionB": "The warehouse is closed for inventory.",
+          "optionC": "The delivery truck is caught in traffic.",
+          "optionD": "The driver lost the address.",
+          "correctOption": "C",
+          "explanation": "Người đàn ông nói: 'their truck got stuck in traffic near the port'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 3 & 4 - Nghe ý chính & Suy luận"
+          ]
+        },
+        {
+          "questionNumber": 34,
+          "content": "Look at the graphic. What time will the delivery arrive at the speakers' office?",
+          "optionA": "09:30 A.M.",
+          "optionB": "10:30 A.M.",
+          "optionC": "11:30 A.M.",
+          "optionD": "01:00 P.M.",
+          "correctOption": "C",
+          "explanation": "Hội thoại nhắc đến khung giờ ngay sau Midtown Clinic (10:30 A.M.) là 11:30 A.M.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 3 & 4 - Nghe ý chính & Suy luận"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "orderIndex": 1,
+      "audioUrl": "/uploads/audio/full-p4-g1.mp3",
+      "transcriptHtml": "<p>Attention, shoppers at Pacific Home Market. Our kitchenware section on the second floor is hosting a free coffee brewing demonstration starting in fifteen minutes. Local barista Hannah Park will show how to use our new espresso machines and offer complimentary samples. Also, loyalty card holders receive twenty percent off all ceramic mugs today only. Please visit the customer service desk near the main entrance if you would like to sign up for a free membership.</p>",
+      "questions": [
+        {
+          "questionNumber": 71,
+          "content": "Where is this announcement most likely being made?",
+          "optionA": "At a home goods store",
+          "optionB": "At a cooking school",
+          "optionC": "At a hotel restaurant",
+          "optionD": "At a coffee bean factory",
+          "correctOption": "A",
+          "explanation": "Thông báo mở đầu bằng 'shoppers at Pacific Home Market' và nhắc đến khu đồ bếp tầng 2.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 3 & 4 - Nghe ý chính & Suy luận"
+          ]
+        },
+        {
+          "questionNumber": 72,
+          "content": "What will Hannah Park do during the event?",
+          "optionA": "Sign copies of a recipe book",
+          "optionB": "Demonstrate espresso machines",
+          "optionC": "Repair old kitchen appliances",
+          "optionD": "Give away free ceramic mugs",
+          "correctOption": "B",
+          "explanation": "Bài nói nêu: 'Hannah Park will show how to use our new espresso machines'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 3 & 4 - Nghe ý chính & Suy luận"
+          ]
+        },
+        {
+          "questionNumber": 73,
+          "content": "How can listeners get a discount on ceramic mugs today?",
+          "optionA": "By spending over fifty dollars",
+          "optionB": "By bringing a printed coupon",
+          "optionC": "By using a store loyalty card",
+          "optionD": "By purchasing online",
+          "correctOption": "C",
+          "explanation": "Bài nói nêu: 'loyalty card holders receive twenty percent off all ceramic mugs today only'.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 3 & 4 - Nghe ý chính & Suy luận"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 5,
+      "orderIndex": 1,
+      "questions": [
+        {
+          "questionNumber": 101,
+          "content": "Ms. Pham will review all budget proposals _______ she leaves for Singapore tomorrow.",
+          "optionA": "before",
+          "optionB": "during",
+          "optionC": "despite",
+          "optionD": "among",
+          "correctOption": "A",
+          "explanation": "Sau chỗ trống là một mệnh đề hoàn chỉnh ('she leaves...') -> cần liên từ 'before'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 5 - Liên từ & Giới từ"
+          ]
+        },
+        {
+          "questionNumber": 102,
+          "content": "The newly installed solar panels have _______ reduced the factory's electricity bills.",
+          "optionA": "significance",
+          "optionB": "significant",
+          "optionC": "significantly",
+          "optionD": "signify",
+          "correctOption": "C",
+          "explanation": "Giữa trợ động từ 'have' và phân từ 'reduced' cần trạng từ -> 'significantly'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 5 - Từ loại (Word Forms)"
+          ]
+        },
+        {
+          "questionNumber": 103,
+          "content": "By the time the client arrived, the engineering team _______ the prototype testing.",
+          "optionA": "completes",
+          "optionB": "will complete",
+          "optionC": "had completed",
+          "optionD": "is completing",
+          "correctOption": "C",
+          "explanation": "Cấu trúc 'By the time + S + V(quá khứ đơn), S + had + V3' (quá khứ hoàn thành).",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 5 - Thì động từ (Tenses)"
+          ]
+        },
+        {
+          "questionNumber": 104,
+          "content": "Applicants _______ resumes demonstrate strong SQL skills will be invited for a technical interview.",
+          "optionA": "who",
+          "optionB": "whom",
+          "optionC": "whose",
+          "optionD": "which",
+          "correctOption": "C",
+          "explanation": "Sau chỗ trống là danh từ 'resumes' thuộc sở hữu của 'Applicants' -> dùng đại từ quan hệ sở hữu 'whose'.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 5 - Mệnh đề quan hệ (Relative Clauses)"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 6,
+      "orderIndex": 1,
+      "passageHtml": "<p><strong>To:</strong> All Marketing Staff<br/><strong>From:</strong> Lan Nguyen, Operations Director<br/><strong>Subject:</strong> Cloud Storage Migration</p><p>Starting next Monday, our company will migrate all project files to a new cloud platform. This upgrade is designed to improve file-sharing speed and enhance data <strong>[131]</strong> across regional branches.</p><p>Before Friday at 5:00 P.M., please back up any critical documents stored on your desktop. <strong>[132]</strong>. Once the migration begins over the weekend, access to the legacy server will be <strong>[133]</strong> suspended.</p><p>If you encounter any login issues on Monday morning, please submit a ticket to the IT Helpdesk <strong>[134]</strong> they can assist you promptly.</p>",
+      "questions": [
+        {
+          "questionNumber": 131,
+          "content": "Select the best word for blank [131].",
+          "optionA": "secure",
+          "optionB": "security",
+          "optionC": "securely",
+          "optionD": "secured",
+          "correctOption": "B",
+          "explanation": "Cụm danh từ 'data security' (bảo mật dữ liệu) làm tân ngữ cho động từ 'enhance'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 5 - Từ loại (Word Forms)"
+          ]
+        },
+        {
+          "questionNumber": 132,
+          "content": "Select the best sentence for blank [132].",
+          "optionA": "The new cafeteria menu will also be posted next week.",
+          "optionB": "A step-by-step backup guide has been attached to this email.",
+          "optionC": "All employees already completed the annual survey.",
+          "optionD": "Regional travel budgets have been frozen until June.",
+          "correctOption": "B",
+          "explanation": "Câu trước yêu cầu sao lưu dữ liệu -> câu nối mạch logic nhất là thông báo đính kèm hướng dẫn sao lưu.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 6 - Điền câu vào đoạn văn"
+          ]
+        },
+        {
+          "questionNumber": 133,
+          "content": "Select the best word for blank [133].",
+          "optionA": "temporarily",
+          "optionB": "rarely",
+          "optionC": "politely",
+          "optionD": "closely",
+          "correctOption": "A",
+          "explanation": "'temporarily suspended' = bị tạm ngưng trong thời gian chuyển đổi dữ liệu cuối tuần.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 5 - Từ vựng doanh nghiệp"
+          ]
+        },
+        {
+          "questionNumber": 134,
+          "content": "Select the best word/phrase for blank [134].",
+          "optionA": "although",
+          "optionB": "unless",
+          "optionC": "so that",
+          "optionD": "whereas",
+          "correctOption": "C",
+          "explanation": "'so that' (để mà) chỉ mục đích: gửi yêu cầu cho IT để họ hỗ trợ kịp thời.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 5 - Liên từ & Giới từ"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 7,
+      "orderIndex": 1,
+      "passageHtml": "<div style='border:1px solid #cbd5e1;border-radius:10px;padding:12px;background:#ffffff;font-size:13px'><div style='font-weight:700;border-bottom:1px solid #e2e8f0;padding-bottom:6px;margin-bottom:8px'>Team Chat — Nha Trang Expo Booth</div><p><strong>Minh (9:12 A.M.):</strong> Hi everyone, I just arrived at the convention center. Our banner looks great, but we only have one power strip.</p><p><strong>Hanh (9:15 A.M.):</strong> I'm still at the office printing the price sheets. I can grab two extra power strips from the supply closet before heading over.</p><p><strong>Minh (9:17 A.M.):</strong> That would save us! Also, the event coordinator said visitors will be allowed in at 10:30 instead of 11:00.</p><p><strong>Hanh (9:18 A.M.):</strong> Got it. I'll skip my coffee stop and take a taxi right now.</p></div>",
+      "questions": [
+        {
+          "questionNumber": 147,
+          "content": "What does Hanh offer to bring to the convention center?",
+          "optionA": "A replacement banner",
+          "optionB": "Additional power strips",
+          "optionC": "Cups of coffee",
+          "optionD": "Extra laptops",
+          "correctOption": "B",
+          "explanation": "Hanh nhắn lúc 9:15: 'I can grab two extra power strips from the supply closet'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 7 - Tìm thông tin chi tiết"
+          ]
+        },
+        {
+          "questionNumber": 148,
+          "content": "At 9:18 A.M., what does Hanh imply when she says she will skip her coffee stop?",
+          "optionA": "The cafe near the office is closed.",
+          "optionB": "She wants to arrive earlier because the opening time moved up.",
+          "optionC": "She forgot her wallet at the convention center.",
+          "optionD": "Minh already bought drinks for the team.",
+          "correctOption": "B",
+          "explanation": "Khách được vào sớm hơn 30 phút (10:30 thay vì 11:00) nên Hanh bỏ qua việc mua cà phê để tới sớm.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 7 - Câu hỏi suy luận (Inference)"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 7,
+      "orderIndex": 2,
+      "passageHtml": "<div style='space-y:12px;font-size:13px'><div style='border:1px solid #cbd5e1;border-radius:8px;padding:12px;background:#fff;margin-bottom:12px'><p><strong>From:</strong> billing@coastalcatering.vn<br/><strong>To:</strong> events@sunrisetech.vn<br/><strong>Date:</strong> November 12<br/><strong>Subject:</strong> Invoice #CC-409 — Annual Developer Summit</p><p>Dear Ms. Thao,<br/>Thank you for choosing Coastal Catering for your summit on November 18. Attached is your updated invoice reflecting the 10% early-booking discount on the buffet package. Please note that final guest count adjustments must be submitted by November 15. Any requests for gluten-free meals can be accommodated at no extra charge.</p></div><div style='border:1px solid #cbd5e1;border-radius:8px;padding:12px;background:#fff'><h4 style='margin:0 0 8px 0;font-weight:700'>INVOICE #CC-409</h4><table style='width:100%;border-collapse:collapse'><thead><tr style='background:#f1f5f9'><th style='border:1px solid #cbd5e1;padding:6px;text-align:left'>Item</th><th style='border:1px solid #cbd5e1;padding:6px;text-align:right'>Amount</th></tr></thead><tbody><tr><td style='border:1px solid #cbd5e1;padding:6px'>Executive Lunch Buffet (60 guests, 10% off)</td><td style='border:1px solid #cbd5e1;padding:6px;text-align:right'>$1,080</td></tr><tr><td style='border:1px solid #cbd5e1;padding:6px'>Afternoon Coffee &amp; Pastry Break</td><td style='border:1px solid #cbd5e1;padding:6px;text-align:right'>$320</td></tr><tr><td style='border:1px solid #cbd5e1;padding:6px'>Setup &amp; Delivery Fee</td><td style='border:1px solid #cbd5e1;padding:6px;text-align:right'>$100</td></tr><tr style='font-weight:700'><td style='border:1px solid #cbd5e1;padding:6px'>Total Due (by Nov 17)</td><td style='border:1px solid #cbd5e1;padding:6px;text-align:right'>$1,500</td></tr></tbody></table></div></div>",
+      "questions": [
+        {
+          "questionNumber": 149,
+          "content": "What is the deadline for changing the number of summit attendees?",
+          "optionA": "November 12",
+          "optionB": "November 15",
+          "optionC": "November 17",
+          "optionD": "November 18",
+          "correctOption": "B",
+          "explanation": "Email nêu rõ: 'final guest count adjustments must be submitted by November 15'.",
+          "difficultyLevel": 2,
+          "tagNames": [
+            "Part 7 - Tìm thông tin chi tiết"
+          ]
+        },
+        {
+          "questionNumber": 150,
+          "content": "Which item on the invoice received a 10% discount?",
+          "optionA": "The lunch buffet",
+          "optionB": "The coffee and pastry break",
+          "optionC": "The setup and delivery fee",
+          "optionD": "The entire invoice total",
+          "correctOption": "A",
+          "explanation": "Cả Email và dòng 1 của Hóa đơn đều ghi mức giảm 10% áp dụng cho 'Executive Lunch Buffet'.",
+          "difficultyLevel": 3,
+          "tagNames": [
+            "Part 7 - Tìm thông tin chi tiết"
+          ]
+        },
+        {
+          "questionNumber": 151,
+          "content": "Which of the following is NOT true according to the email and invoice?",
+          "optionA": "The summit takes place on November 18.",
+          "optionB": "Gluten-free meals require an additional fee.",
+          "optionC": "The current invoice covers 60 guests.",
+          "optionD": "Payment is due on November 17.",
+          "correctOption": "B",
+          "explanation": "Email nêu suất ăn không chứa gluten được phục vụ miễn phí ('at no extra charge'), nên (B) là câu SAI.",
+          "difficultyLevel": 4,
+          "tagNames": [
+            "Part 7 - Câu hỏi phủ định (NOT/EXCEPT)"
+          ]
+        }
+      ]
+    }
+  ]
+}

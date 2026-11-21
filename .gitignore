@@ -1,0 +1,24 @@
+﻿# Build & IDE
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+
+# File dung luong lon (PDF, Audio, anh de thi)
+raw_ets/
+exam_packages/
+backend/src/SmartToeic.API/wwwroot/uploads/
+
+# Bien moi truong & cau hinh nhay cam
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+backend/src/SmartToeic.API/appsettings.Development.json
+
+# Script va tam
+patch_*.py
