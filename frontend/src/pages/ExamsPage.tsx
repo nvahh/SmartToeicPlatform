@@ -1,4 +1,4 @@
-﻿import { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { BookOpen, Clock, FileText, Play, Search, SlidersHorizontal, X } from 'lucide-react';
 import { Navbar } from '../components/Navbar';
@@ -126,9 +126,9 @@ export function ExamsPage() {
         ) : exams.length === 0 ? (
           <div className="bg-white rounded-2xl border border-slate-200 p-12 text-center">
             <BookOpen className="w-12 h-12 text-slate-300 mx-auto mb-3" />
-            <h2 className="text-lg font-semibold text-slate-800">Chưa có đề thi nào</h2>
+            <h2 className="text-lg font-semibold text-slate-800">Ối chà, không có gì ở đây cả</h2>
             <p className="text-sm text-slate-500 mt-1">
-              Admin có thể nạp đề thi mẫu bằng tính năng Bulk Import JSON.
+              Thử tìm bằng từ khóa khác hoặc xóa từ khóa để xem toàn bộ danh sách đề thi nhé.
             </p>
           </div>
         ) : (
