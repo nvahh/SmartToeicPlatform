@@ -306,7 +306,11 @@ export function ReviewsPage() {
                       Đáp án đúng: <span className="text-emerald-700">{currentCard.correctOption}</span>
                     </div>
                     {currentCard.explanation && (
-                      <p className="text-indigo-900 leading-relaxed">{currentCard.explanation}</p>
+                    <div
+                    className="text-indigo-900 leading-relaxed space-y-1.5 [&_strong]:font-semibold"
+                    dangerouslySetInnerHTML = {{ __html: currentCard.explanation }
+                    }
+                    />
                     )}
                     {currentCard.tags.length > 0 && (
                       <div className="flex flex-wrap gap-1.5 pt-1">

@@ -451,12 +451,17 @@ export function ResultPage() {
                           </span>
                         </div>
 
-                        {q.explanation && (
-                          <div className="p-3 rounded-lg bg-indigo-50/70 border border-indigo-100 text-sm text-indigo-950">
-                            <span className="font-semibold">Giải thích: </span>
-                            {q.explanation}
-                          </div>
-                        )}
+{
+    q.explanation && (
+        <div className="p-3 rounded-lg bg-indigo-50/70 border border-indigo-100 text-sm text-indigo-950 space-y-1.5" >
+            <div className="font-semibold" > Giải thích: </div>
+                < div
+    className = "leading-relaxed space-y-1.5 [&_strong]:font-semibold"
+    dangerouslySetInnerHTML = {{ __html: q.explanation }
+}
+    />
+    </div>
+)}
                       </div>
                     );
                   })}
